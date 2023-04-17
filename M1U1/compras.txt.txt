@@ -1,4 +1,5 @@
 Leche 
-Azucar
 Cafe
 Queso
+Fruta 
+Verdura
