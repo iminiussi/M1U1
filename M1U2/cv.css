@@ -1,0 +1,69 @@
+body{
+    background-image: url(img/fondo2.jpg);
+    background-position: ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+#nombre{
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
+#mifoto{
+    height: 170px;
+    width: 170px;
+    border-radius: 2px;
+    border-style: outset;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.cabecera {
+    text-align: center;
+}
+.subtitulo{
+    font-size: 25px;
+    justify-content: center;
+    text-align: center;
+    border-style: outset;
+    border-radius: 3px;  
+    font-weight: bolder;
+}
+.lista{
+    font-family: Arial, Helvetica, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.rbcs{
+    position: relative;
+    font-style: italic;
+    left: 200px;
+    top: -210px;
+    width: 400px;
+    padding: 5px;
+}
+.rbb1{
+    position: relative;
+    font-style: italic;
+    left: 200px;
+    top: -210px;
+    width: 400px;
+    padding: 5px;
+}
+.rgot{
+    position: relative;
+    font-style: italic;
+    left: 200px;
+    top: -210px;
+    width: 400px;
+    padding: 5px;
+}
+img{
+    height: 180px;
+    width: 180px;
+    border-style: outset;
+    border-radius: 2px;
+}
